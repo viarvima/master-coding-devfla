@@ -1,0 +1,13 @@
+nav{
+    background-color: pink;
+    list-style-type: none;
+    text-align: center;
+    padding: 10;
+    margin: 1;
+}
+
+nav li{
+    display: inline-block;
+    font-size: 22px;
+    padding: 15px;
+}
